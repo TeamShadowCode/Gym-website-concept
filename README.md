@@ -18,7 +18,7 @@
 
 ## Overview
 
-A fully responsive, modern website concept for a Iron Haven Athletics. The project focuses on clean visual hierarchy, intuitive user experience, and a professional aesthetic suited to the Solar industry.
+A fully responsive, modern website concept for a Iron Haven Athletics. The project focuses on clean visual hierarchy, intuitive user experience, and a professional aesthetic suited to the Gym industry.
 
 ---
 
